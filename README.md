@@ -8,4 +8,4 @@ This project is a Pathfinding Visualizer built with React, which demonstrates ho
 *Step-by-step visualization of the algorithm <br/>
 
 # Project Link 
-https://path-finding-visualizer-rose.vercel.app/
+https://path-visualizer-one.vercel.app/
